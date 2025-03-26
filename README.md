@@ -28,6 +28,14 @@ CMD ["node", "app.js"]
 # Step 3: Push to Docker Hub
 ![Screenshot (89)](https://github.com/user-attachments/assets/adc9e753-ca5b-4982-b481-8c228a3e6660)
 ![Screenshot (90)](https://github.com/user-attachments/assets/00cead9c-6716-4fb5-8385-58a73cf2b1af)
+![Screenshot (92)](https://github.com/user-attachments/assets/f1586315-2ff3-4cc5-becf-f4b762a3bef6)
+
+
+# Step 4: Push to AWS ECR
+![Screenshot (101)](https://github.com/user-attachments/assets/d224da4d-0df1-497b-802e-b0ec1241229e)
+
+
+
 
 
 
