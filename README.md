@@ -33,6 +33,7 @@ CMD ["node", "app.js"]
 
 # Step 4: Push to AWS ECR
 ![Screenshot (101)](https://github.com/user-attachments/assets/d224da4d-0df1-497b-802e-b0ec1241229e)
+![Screenshot (107)](https://github.com/user-attachments/assets/795c83e3-0025-4ede-9364-983b1fc55a78)
 
 
 # Step 6: Automate the Process with GitHub Action
