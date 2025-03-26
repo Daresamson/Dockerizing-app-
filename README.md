@@ -35,6 +35,18 @@ CMD ["node", "app.js"]
 ![Screenshot (101)](https://github.com/user-attachments/assets/d224da4d-0df1-497b-802e-b0ec1241229e)
 
 
+# Step 6: Automate the Process with GitHub Action
+
+![Screenshot (99)](https://github.com/user-attachments/assets/4b3bb323-fc69-4f1c-9ce1-c345753c4262)
+
+![Screenshot (98)](https://github.com/user-attachments/assets/66d8aa2b-952f-4abd-9e75-8a73084be984)
+
+![Screenshot (96)](https://github.com/user-attachments/assets/dc42a826-9229-46f5-a9ef-faacb5e2b93d)
+
+
+
+
+
 
 
 
